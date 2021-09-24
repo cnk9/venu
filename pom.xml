@@ -67,7 +67,7 @@
   <distributionManagement>
     <repository>
       <id>releases</id>
-      <url>http://34.66.220.172:8081/repository/maven-releases/</url>
+      <url>http:/domain:port/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
       <id>deployment</id>
