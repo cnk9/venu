@@ -66,8 +66,7 @@
   </build>
   <distributionManagement>
     <repository>
-      <id>nexus</id>
-      <name>Releases</name>
+      <id>releases</id>
       <url>http://34.66.220.172:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
