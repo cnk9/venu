@@ -6,7 +6,7 @@
 
   <groupId>web</groupId>
   <artifactId>test</artifactId>
-  <version>2.0-SNAPSHOT</version>
+  <version>3.0-SNAPSHOT</version>
   <packaging>war</packaging>
 
   <name>test Maven Webapp</name>
@@ -67,12 +67,12 @@
   <distributionManagement>
     <repository>
       <id>releases</id>
-      <url>http://34.68.102.5:8081/repository/maven-releases/</url>
+      <url>http://10.128.0.17:8081/repository/maven-releases/</url>
     </repository>
     <snapshotRepository>
       <id>deployment</id>
       <name>Snapshot</name>
-      <url>http://34.68.102.5:8081/repository/maven-snapshots/</url>
+      <url>http://10.128.0.17:8081/repository/maven-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 </project>
